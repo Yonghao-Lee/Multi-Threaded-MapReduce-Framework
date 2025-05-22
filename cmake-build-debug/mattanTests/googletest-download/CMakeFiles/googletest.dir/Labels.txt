@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/CMakeFiles/googletest
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/CMakeFiles/googletest.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/yonghaolee/Downloads/Resources/cmake-build-debug/mattanTests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
